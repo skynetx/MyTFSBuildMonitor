@@ -21,3 +21,15 @@ C:\source\Control\Git\MyTFSBuildMonitor\BuildStateServer\bin\Debug\NLog.xml
 C:\source\Control\Git\MyTFSBuildMonitor\BuildStateServer\obj\Debug\BuildStateServer.csprojResolveAssemblyReference.cache
 C:\source\Control\Git\MyTFSBuildMonitor\BuildStateServer\obj\Debug\BuildStateServer.exe
 C:\source\Control\Git\MyTFSBuildMonitor\BuildStateServer\obj\Debug\BuildStateServer.pdb
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\bin\Debug\DelcomDLL.dll
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\bin\Debug\BuildStateServer.exe.config
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\bin\Debug\BuildStateServer.exe
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\bin\Debug\BuildStateServer.pdb
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\bin\Debug\BuildCommon.dll
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\bin\Debug\NLog.dll
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\bin\Debug\BuildCommon.pdb
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\bin\Debug\NLog.xml
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\obj\Debug\BuildStateServer.csprojResolveAssemblyReference.cache
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\obj\Debug\BuildStateServer.exe
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildStateServer\obj\Debug\BuildStateServer.pdb

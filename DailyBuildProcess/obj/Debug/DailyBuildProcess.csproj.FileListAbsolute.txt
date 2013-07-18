@@ -8,3 +8,12 @@ C:\Source\Tools\BuildMonitorSource\Trunk\DailyBuildProcess\obj\Debug\DailyBuildP
 C:\Source\Tools\BuildMonitorSource\Trunk\DailyBuildProcess\obj\Debug\DailyBuildProcess.g.resources
 C:\Source\Tools\BuildMonitorSource\Trunk\DailyBuildProcess\obj\Debug\DailyBuildProcess.exe
 C:\Source\Tools\BuildMonitorSource\Trunk\DailyBuildProcess\obj\Debug\DailyBuildProcess.pdb
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\DailyBuildProcess\bin\Debug\DailyBuildProcess.exe.config
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\DailyBuildProcess\bin\Debug\DailyBuildProcess.exe
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\DailyBuildProcess\bin\Debug\DailyBuildProcess.pdb
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\DailyBuildProcess\obj\Debug\BuildAndDeployProcess.baml
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\DailyBuildProcess\obj\Debug\BuildAndDeployProcess.g.cs
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\DailyBuildProcess\obj\Debug\DailyBuildProcess_MarkupCompile.cache
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\DailyBuildProcess\obj\Debug\DailyBuildProcess.g.resources
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\DailyBuildProcess\obj\Debug\DailyBuildProcess.exe
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\DailyBuildProcess\obj\Debug\DailyBuildProcess.pdb

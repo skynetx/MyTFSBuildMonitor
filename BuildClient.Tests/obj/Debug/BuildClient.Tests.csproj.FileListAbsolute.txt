@@ -15,3 +15,11 @@ C:\source\Control\Git\MyTFSBuildMonitor\BuildClient.Tests\bin\Debug\nunit.framew
 C:\source\Control\Git\MyTFSBuildMonitor\BuildClient.Tests\obj\Debug\BuildClient.Tests.csprojResolveAssemblyReference.cache
 C:\source\Control\Git\MyTFSBuildMonitor\BuildClient.Tests\obj\Debug\BuildClient.Tests.dll
 C:\source\Control\Git\MyTFSBuildMonitor\BuildClient.Tests\obj\Debug\BuildClient.Tests.pdb
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildClient.Tests\bin\Debug\BuildClient.Tests.dll
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildClient.Tests\bin\Debug\BuildClient.Tests.pdb
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildClient.Tests\bin\Debug\NSubstitute.dll
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildClient.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildClient.Tests\bin\Debug\NSubstitute.xml
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildClient.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildClient.Tests\obj\Debug\BuildClient.Tests.dll
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildClient.Tests\obj\Debug\BuildClient.Tests.pdb

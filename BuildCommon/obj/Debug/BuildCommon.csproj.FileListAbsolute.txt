@@ -8,3 +8,7 @@ C:\source\Control\Git\MyTFSBuildMonitor\BuildCommon\bin\Debug\BuildCommon.pdb
 C:\source\Control\Git\MyTFSBuildMonitor\BuildCommon\obj\Debug\BuildCommon.csprojResolveAssemblyReference.cache
 C:\source\Control\Git\MyTFSBuildMonitor\BuildCommon\obj\Debug\BuildCommon.dll
 C:\source\Control\Git\MyTFSBuildMonitor\BuildCommon\obj\Debug\BuildCommon.pdb
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildCommon\bin\Debug\BuildCommon.dll
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildCommon\bin\Debug\BuildCommon.pdb
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildCommon\obj\Debug\BuildCommon.dll
+C:\Users\Tien\Desktop\GitHub\MyTFSBuildMonitor\BuildCommon\obj\Debug\BuildCommon.pdb
